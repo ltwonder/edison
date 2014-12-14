@@ -1,3 +1,0 @@
---load ./yard_extension.rb
-ext/opencv/*.cpp
-
